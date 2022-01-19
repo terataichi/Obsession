@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TestData>
+<AllData>
   <AllData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <objType>Item</objType>
-    <objName>Ohuda</objName>
+    <objName>Key</objName>
     <pos>
-      <x>-14.104</x>
+      <x>-0.847</x>
       <y>1.083</y>
-      <z>8.599</z>
+      <z>22.783</z>
     </pos>
     <rota>
       <x>-0</x>
@@ -79,9 +79,9 @@
     <objType>Item</objType>
     <objName>Key</objName>
     <pos>
-      <x>9.551</x>
-      <y>1.096</y>
-      <z>45.665</z>
+      <x>2.68</x>
+      <y>1.049</y>
+      <z>42.877</z>
     </pos>
     <rota>
       <x>-0</x>
@@ -342,6 +342,81 @@
         <x>-0</x>
         <y>90</y>
         <z>-0</z>
+      </eulerAngles>
+    </rota>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </AllData>
+  <AllData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <objType>Item</objType>
+    <objName>Ohuda</objName>
+    <pos>
+      <x>-8.63</x>
+      <y>1.189</y>
+      <z>44.773</z>
+    </pos>
+    <rota>
+      <x>-0</x>
+      <y>-0</y>
+      <z>-0</z>
+      <w>1</w>
+      <eulerAngles>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </eulerAngles>
+    </rota>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </AllData>
+  <AllData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <objType>Item</objType>
+    <objName>Ohuda</objName>
+    <pos>
+      <x>-23.257</x>
+      <y>5.679</y>
+      <z>39.232</z>
+    </pos>
+    <rota>
+      <x>-0</x>
+      <y>-0</y>
+      <z>-0</z>
+      <w>1</w>
+      <eulerAngles>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </eulerAngles>
+    </rota>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+  </AllData>
+  <AllData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <objType>Item</objType>
+    <objName>Ohuda</objName>
+    <pos>
+      <x>-14.445</x>
+      <y>1.184</y>
+      <z>8.715</z>
+    </pos>
+    <rota>
+      <x>-0</x>
+      <y>-0</y>
+      <z>-0</z>
+      <w>1</w>
+      <eulerAngles>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
       </eulerAngles>
     </rota>
     <scale>

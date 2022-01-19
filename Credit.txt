@@ -1,0 +1,11 @@
+// 焚火効果音
+ポケットサウンド
+(https://pocket-se.info/archives/tag/%E7%81%AB/#google_vignette)
+
+// マウスクリック音
+オトロジック
+(https://otologic.jp)
+
+// BGM、敵、他
+UnityAssetStore
+(https://assetstore.unity.com/?gclid=CjwKCAiA55mPBhBOEiwANmzoQtzqk-87NnjkfVFWZ1HvI1abuvQKi2p2kPpYI0HEV4miF84bPri0BxoCQ-0QAvD_BwE&gclsrc=aw.ds)
